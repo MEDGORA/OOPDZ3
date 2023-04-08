@@ -1,4 +1,4 @@
-public class IvanovFamily extends Family implements iPrinter{
+public class IvanovFamily extends Family {
 
     IvanovFamily(String personName, String personSurname, Integer personAge, String personSex) {
         super(personName, personSurname, personAge, personSex);

@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-abstract class Family {
+abstract class Family implements iPrinter {
     private String name;
     private String surname;
     private Integer age;

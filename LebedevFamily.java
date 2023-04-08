@@ -1,4 +1,4 @@
-public class LebedevFamily extends Family implements iPrinter {
+public class LebedevFamily extends Family {
 
     public LebedevFamily(String personName, String personSurname, Integer personAge, String personSex){
         super(personName, personSurname, personAge, personSex);
